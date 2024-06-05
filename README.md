@@ -1,1 +1,5 @@
-## Markov chain Monte Carlo–based Bayesian data analysis for type Ia Supernovae
+# Markov chain Monte Carlo–based Bayesian data analysis for type Ia Supernovae
+
+## Abstract
+
+The Hubble constant $H_0$ is a fundamental parameter in cosmology, important for understanding the rate of expansion of the Universe. However, significant discrepancies have emerged between the $H_0$ values derived from the Cosmic Microwave Background (CMB) measurements by the Planck satellite and those obtained from the local distance ladder technique, by the SH0ES collaboration. This discord, known as the "Hubble tension," suggests potential gaps in our current cosmological model. This project employs a Markov chain Monte Carlo (MCMC)–based Bayesian data analysis on type Ia Supernovae to estimate $H_0$ and contribute to resolving this tension. The analysis involves exploratory data analysis, defining key cosmological functions, applying Bayesian inference, and sampling the posterior distribution of $H_0$ using MCMC. The results are visualized and the MCMC chains' convergence is assessed through autocorrelation analysis. 
